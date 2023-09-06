@@ -4,7 +4,7 @@
 
 🍓 **About Me**
 
-- 🔭 主要使用: Python
+- 🔭 主要使用: Python JavaScript
 - 📫 E-mail: suran0617@outlook.com
 - 🗨️ WeChat: AlanHays
 - 👯 About me: 一个菜鸟，热爱方向网络爬虫、移动逆向。
