@@ -8,8 +8,12 @@
 - 📫 E-mail: suran0617@outlook.com
 - 🗨️ WeChat: AlanHays
 - 👯 About me: 一个菜鸟，热爱方向网络爬虫、移动逆向。
+- 📺 BiliBili: [胡涛l无颜](https://space.bilibili.com/247999712)
+- 🎯 52pojie: [alanhays](https://www.52pojie.cn/home.php?mod=space&uid=1963774)
 
 ❄️ **Skills**
+
+https://www.52pojie.cn/home.php?mod=space&uid=1963774
 
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)
