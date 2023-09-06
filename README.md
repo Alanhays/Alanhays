@@ -13,8 +13,6 @@
 
 ❄️ **Skills**
 
-https://www.52pojie.cn/home.php?mod=space&uid=1963774
-
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
