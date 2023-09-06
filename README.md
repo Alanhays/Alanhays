@@ -6,7 +6,7 @@
 
 - 🔭 主要使用: Python
 - 📫 E-mail: suran0617@outlook.com
-- 🔏 WeChat: AlanHays
+- 🗨️ WeChat: AlanHays
 - 👯 About me: 一个菜鸟，热爱方向网络爬虫、移动逆向。
 
 ❄️ **Skills**
