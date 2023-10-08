@@ -5,7 +5,7 @@
 🍓 **About Me**
 
 - 🔭 主要使用: Python JavaScript
-- ✨ Blog: [giteeBlog](https://alanhays.gitee.io)
+- ✨ Blog: [国内](https://alanhays.gitee.io) | [海外](https://alanhays.github.io)
 - 📫 E-mail: suran0617@outlook.com
 - 🗨️ WeChat: AlanHays
 - 📺 BiliBili: [胡涛l无颜](https://space.bilibili.com/247999712)
