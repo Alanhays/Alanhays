@@ -1,10 +1,10 @@
 🍓 **About Me**
 
 - 🔭 vital: For freedom
-- ✨ Blog: [国内](https://alanhays.gitee.io) | [海外](https://alanhays.github.io)
+- ✨ Blog: [gitee](https://alanhays.gitee.io) | [githu](https://alanhays.github.io)
 - 📫 E-mail: suran0617@outlook.com
 - 🗨️ WeChat: AlanHays
-- 📺 BiliBili: [海斯-AlanHays](https://space.bilibili.com/247999712)
+- 📺 BiliBili: [AlanHays](https://space.bilibili.com/247999712)
 - 🎯 52pojie: [alanhays](https://www.52pojie.cn/home.php?mod=space&uid=1963774)
 - 👯 About me: Keep loving and enjoy the good life ~
 
