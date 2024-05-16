@@ -6,7 +6,7 @@
 - 🗨️ WeChat: AlanHays
 - 📺 BiliBili: [AlanHays](https://space.bilibili.com/247999712)
 - 🎯 52pojie: [alanhays](https://www.52pojie.cn/home.php?mod=space&uid=1963774)
-- 👯 About me: Subjective Idealism
+- 👯 About me: esse est percipi.
 
 ❄️ **Skills**
 
