@@ -1,7 +1,7 @@
 🍓 **About Me**
 
 - 🔭 vital: For freedom
-- ✨ Blog: [alanhays.gitee.io](https://alanhays.gitee.io) | [alanhays.github.io](https://alanhays.github.io)
+- ✨ Blog: [alanhays.github.io](https://alanhays.github.io)
 - 📫 E-mail: suran0617@outlook.com
 - 🗨️ WeChat: AlanHays
 - 📺 BiliBili: [AlanHays](https://space.bilibili.com/247999712)
