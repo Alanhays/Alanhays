@@ -3,9 +3,6 @@
 - 🔭 vital: For freedom
 - ✨ Blog: [alanhays.github.io](https://alanhays.github.io)
 - 📫 E-mail: suran0617@outlook.com
-- 🗨️ WeChat: AlanHays
-- 📺 BiliBili: [AlanHays](https://space.bilibili.com/247999712)
-- 🎯 52pojie: [alanhays](https://www.52pojie.cn/home.php?mod=space&uid=1963774)
 - 👯 About me: esse est percipi.
 
 ❄️ **Skills**
